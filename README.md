@@ -10,3 +10,6 @@ https://imgbb.com/
 
 gif-editor
 https://ezgif.com/optimize
+
+Github Codespaces for react
+https://github.com/codespaces
