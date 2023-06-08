@@ -13,3 +13,15 @@ https://ezgif.com/optimize
 
 Github Codespaces for react
 https://github.com/codespaces
+
+
+https://kaiber.ai/
+
+
+https://gonative.io/
+
+https://www.heygen.com/?from=moviola
+
+https://www.opus.pro/
+
+https://predis.ai/
